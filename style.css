@@ -1,0 +1,14 @@
+h1{
+    color: dodgerblue;
+    background-color: grey;
+}
+h2{
+    color: rgb(212, 97, 15) ;
+    background-color: rgb(60, 149, 152);
+    font-size: x-large;
+}
+p{
+    color: black;
+    font-size: x-large;
+    background-color: white;
+}
